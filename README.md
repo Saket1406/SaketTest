@@ -26,7 +26,7 @@ APIs enable communication between different software systems. They allow the bac
 ### Ans:-
 DIfferent Types of HTML tags are as follows:
 #### Structural Tags:
-<html>, <body>, <head>, <div> all these tags are used to provide a structure to the website.
+html, body, head, div all these tags are used to provide a structure to the website.
 eg: <body>: Contains the visible content of the web page including text, images, links, and other elements.
 
 #### Heading Tags:
