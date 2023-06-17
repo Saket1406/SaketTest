@@ -34,7 +34,6 @@ h1 to h6: Defines heading levels from the largest (h1) to the smallest (h6). The
 
 #### Link Tags;
 a tag: Creates a hyperlink. It is used to define a link to another web page, a specific section within the same page, or an external resource.
-Example: "<a href="https://www.example.com">".
 
 #### List Tags:
 ul: Represents an unordered list.
@@ -52,3 +51,15 @@ In React, everything is treated as a component. Whenever the state of any compon
 
 ### Q4)
 ### Ans:-
+#### MySQL:                                                                                               
+1.These databases have fixed or static or predefined schema
+2.These databases are not suited for hierarchical data storage.
+3.These databases are best suited for complex queries
+4.Vertically Scalable
+
+#### NoSQL:  
+1.They have a dynamic schema
+2.These databases are best suited for hierarchical data storage
+3.These databases are not so good for complex queries
+4.Horizontally scalable
+
