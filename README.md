@@ -36,7 +36,7 @@ h1 to h6: Defines heading levels from the largest (h1) to the smallest (h6). The
 a tag: Creates a hyperlink. It is used to define a link to another web page, a specific section within the same page, or an external resource.
 
 #### List Tags:
-ul: Represents an unordered list.
+ul: Represents an unordered list.<br>
 ol: Represents an ordered (numbered) list.
 
 #### Table Tags:
