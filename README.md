@@ -51,15 +51,25 @@ In React, everything is treated as a component. Whenever the state of any compon
 
 ### Q4)
 ### Ans:-
-#### MySQL:                                                                                               
-1.These databases have fixed or static or predefined schema
-2.These databases are not suited for hierarchical data storage.
-3.These databases are best suited for complex queries
-4.Vertically Scalable
-
-#### NoSQL:  
-1.They have a dynamic schema
-2.These databases are best suited for hierarchical data storage
-3.These databases are not so good for complex queries
-4.Horizontally scalable
-
+<table>
+  <tr>
+    <th>MySQL</th>
+    <th>NoSQL</th>
+  </tr>
+  <tr>
+    <td>1.These databases have fixed or static or predefined schema</td>
+    <td>1.They have a dynamic schema</td>
+  </tr>
+  <tr>
+    <td>2.These databases are not suited for hierarchical data storage.</td>
+    <td>2.These databases are best suited for hierarchical data storage</td>
+  </tr>
+  <tr>
+    <td>3.These databases are best suited for complex queries</td>
+    <td>3.These databases are not so good for complex queries</td>
+  </tr>
+   <tr>
+    <td>4.Vertically Scalable</td>
+    <td>4.Horizontally scalable</td>
+  </tr>
+</table>
