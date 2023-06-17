@@ -47,10 +47,8 @@ td: Defines a table data cell.
 
 ### Q3) Explain the working Procedure of Virtual DOM.
 ### Ans:-
-In React, everything is treated as a component. Whenever the state of any component is changed react updates its Virtual DOM tree.React maintains two Virtual DOM at each time, one contains the updated Virtual DOM and one which is just the pre-update version of this updated Virtual DOM. Now it compares the pre-update version with the updated Virtual DOM and figures out what exactly has changed in the DOM like which components have been changed. React finds out what exactly has changed then it updates those objects only, on real DOM. The re-rendering of the UI is the most expensive part and React manages to do this most efficiently by ensuring that the Real DOM receives batch updates to re-render the UI. 
-
 <ul>
-  #### Working Procedure of Virtual DOM is as follows:
+  <h4>Working Procedure of Virtual DOM is as follows:</h4>
   <li>In React, everything is treated as a component.</li>
   <li> Whenever the state of any component is changed react updates its Virtual DOM tree.</li>
   <li>React maintains two Virtual DOM at each time, one contains the updated Virtual DOM and one which is just the pre-update version of this updated Virtual DOM.</li>
