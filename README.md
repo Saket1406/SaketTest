@@ -2,7 +2,7 @@
 
 ## Part-A Theory Answers
 
-### Q1)
+### Q1) Mention the working of Internet Website in Terms of Front-end & Back-end Divisions
 ### Ans:-
 ### Front-end:
 The front-end, also known as the client-side, refers to the part of a website that users interact with directly. It includes the user interface, design elements, and overall user experience. The front end parts(Technologies) coverd int the course are:-
@@ -22,7 +22,7 @@ Websites often need to store and retrieve data. Databases, such as MySQL, Postgr
 #### c) APIs (Application Programming Interfaces):
 APIs enable communication between different software systems. They allow the back-end of a website to interact with external services, such as payment gateways, social media platforms, or third-party APIs, to retrieve or send data.
 
-### Q2)
+### Q2) What are tags in HTML? Explain the each category of tag with an Example.
 ### Ans:-
 DIfferent Types of HTML tags are as follows:
 #### Structural Tags:
@@ -45,11 +45,11 @@ tr: Represents a table row.
 th: Defines a table header cell.
 td: Defines a table data cell.
 
-### Q3)
+### Q3) Explain the working Procedure of Virtual DOM.
 ### Ans:-
 In React, everything is treated as a component. Whenever the state of any component is changed react updates its Virtual DOM tree.React maintains two Virtual DOM at each time, one contains the updated Virtual DOM and one which is just the pre-update version of this updated Virtual DOM. Now it compares the pre-update version with the updated Virtual DOM and figures out what exactly has changed in the DOM like which components have been changed. React finds out what exactly has changed then it updates those objects only, on real DOM. The re-rendering of the UI is the most expensive part and React manages to do this most efficiently by ensuring that the Real DOM receives batch updates to re-render the UI. 
 
-### Q4)
+### Q4) Mention some Differences between MySQL and No SQL.
 ### Ans:-
 <table>
   <tr>
@@ -73,3 +73,9 @@ In React, everything is treated as a component. Whenever the state of any compon
     <td>4.Horizontally scalable</td>
   </tr>
 </table>
+
+### Q4) Explain any one DBMS Technology in your own words.
+### Ans:-
+#### RDBMS
+RDBMS (Relational Database Management System) is a database management system is used to store, manage, and retrieve structured data.The model is based on the relational model, where rows and columns are organized into tables.Each table represents an entity, and each row represents a specific instance of that entity, while columns represent attributes or properties.<br>
+The accuracy and consistency of the data can be maintained with the help of constraints, such as primary key, foreign key, and unique key constraints.It provides a standardized query language for performing operations on the data.
