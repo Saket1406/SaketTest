@@ -30,21 +30,21 @@ html, body, head, div all these tags are used to provide a structure to the webs
 eg: <body>: Contains the visible content of the web page including text, images, links, and other elements.
 
 #### Heading Tags:
-<h1> to <h6>: Defines heading levels from the largest (h1) to the smallest (h6). They are used to denote different sections or headings within the document.
+h1 to h6: Defines heading levels from the largest (h1) to the smallest (h6). They are used to denote different sections or headings within the document.
 
 #### Link Tags;
-<a>: Creates a hyperlink. It is used to define a link to another web page, a specific section within the same page, or an external resource.
-Example: <a href="https://www.example.com">
+"<a>": Creates a hyperlink. It is used to define a link to another web page, a specific section within the same page, or an external resource.
+Example: "<a href="https://www.example.com">".
 
 #### List Tags:
-<ul>: Represents an unordered list.
-<ol>: Represents an ordered (numbered) list.
+"<ul>": Represents an unordered list.
+"<ol>": Represents an ordered (numbered) list.
 
 #### Table Tags:
-<table>: Defines a table.
-<tr>: Represents a table row.
-<th>: Defines a table header cell.
-<td>: Defines a table data cell.
+"<table>": Defines a table.
+"<tr>": Represents a table row.
+"<th>": Defines a table header cell.
+"<td>": Defines a table data cell.
 
 ### Q3)
 ### Ans:-
