@@ -34,7 +34,7 @@ eg: <body>: Contains the visible content of the web page including text, images,
 
 #### Link Tags;
 <a>: Creates a hyperlink. It is used to define a link to another web page, a specific section within the same page, or an external resource.
-Example: <a href="https://www.examp
+Example: <a href="https://www.example.com">
 
 #### List Tags:
 <ul>: Represents an unordered list.
