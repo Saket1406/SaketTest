@@ -1,11 +1,10 @@
 # SaketTest
 
-### Part-A Theory Answers
+## Part-A Theory Answers
 
-#### Q1)
-
-#### Ans:-
-#### Front-end:
+### Q1)
+### Ans:-
+### Front-end:
 The front-end, also known as the client-side, refers to the part of a website that users interact with directly. It includes the user interface, design elements, and overall user experience. The front end parts(Technologies) coverd int the course are:-
 #### a) HTML (Hypertext Markup Language): 
 HTML is the fundamental building block of web pages. It provides the structure and content of the website by using tags to define elements like headings, paragraphs, images, and links.
@@ -14,7 +13,7 @@ CSS is responsible for the visual presentation of the website. It controls the l
 #### c) JavaScript: 
 JavaScript is a scripting language that adds interactivity and dynamic behavior to websites. It allows for the creation of interactive elements, animations, and event handling. JavaScript frameworks and libraries like React, Angular, and Vue.js are often used to simplify the development process.
 
-#### Back End:
+### Back End:
 The back-end, also known as the server-side, handles the behind-the-scenes operations of a website. It includes the server, database, and server-side application logic.
 #### a) Server:
 A server is a computer or a system that stores and delivers web pages to users upon request. It receives requests from the client-side and processes them to generate the appropriate response.
